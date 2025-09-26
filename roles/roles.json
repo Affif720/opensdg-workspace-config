@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "created": "2025-09-26T09:13:27Z",
+  "roles": [
+    {
+      "id": "admin",
+      "name": "Administrator"
+    },
+    {
+      "id": "editor",
+      "name": "Editor"
+    }
+  ],
+  "users": [
+    {
+      "github": "Affif720",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
+    }
+  ],
+  "signature": "b/dE7\u002BWTsiZ/MZ3\u002Bv3X/rwsXXjpSausLusBdEYJihlKY1XFk0FnTrUnyToXwnUP3\u002BTH3foZYxGmsGLQFXp8BRfdTjFPccGFzxwdFoV45iFcQiT4Dl\u002B9ZhN7wmnCMpaFH94ewix/STNDn0A02f14NDbFvdDEXP/aJO2ldHKjLaHRmkN7jL2CvrD4yaiB7DGftTk8K8RKehaekL3McAm2dDqJ8cNsNeoFDu2L52eOACG\u002BClXObyyNoDRW8bm59GexZR68iblokPz\u002BUrPG5Vfv81MSSZAMtS/51odU\u002BFkaeJTi7T\u002Bq2D8FznWQYw8fV796qznkCNVQ0AWrd1DSHqwZN1w=="
+}
