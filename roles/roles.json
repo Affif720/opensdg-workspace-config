@@ -18,6 +18,13 @@
         "admin"
       ],
       "expiresAt": null
+    },
+    {
+      "github": "rihenna-bitlab",
+      "roles": [
+        "admin"
+      ],
+      "expiresAt": null
     }
   ],
   "signature": "uAyjF0cJRyEqg74l6QJ0Y1l3x1yM6o3qqMvidHvJMiN001OWQUeAJoBoZ2s1Vdtm/8l9pU00Hy32qcqIqfRweLtlyg8cfKQw79R\u002BjKZId/rEw9lHGa7HGx/u01Q\u002BZe0ynGbpl/EUh1v8XzfGmP\u002BFqGKO1tAJ9/8OcwrMGhXvzg4ErrQIGc8ahTliUcbdjkt\u002BFQBg5ftUW\u002Bmjw6u9ymG4z/NNwf3HhptIDUDVwybzQcUrFeVKKKb7cOtYRA357WJLhfwrvFCUi9mi2of\u002BLTCht\u002BXVja0syV577\u002BAVii/lAhqn2ysRqkmepogCP\u002BxWJf3sxpq\u002BKgklUd8vM/DHBGWXuw=="
