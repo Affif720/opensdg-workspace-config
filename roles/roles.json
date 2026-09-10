@@ -34,6 +34,13 @@
       "expiresAt": null
     },
     {
+      "github": "nadinepranoto-bitlab",
+      "roles": [
+        "editor"
+      ],
+      "expiresAt": null
+    },
+    {
       "github": "Affifaz",
       "roles": [
         "editor"
